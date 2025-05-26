@@ -17,15 +17,13 @@ The goal is to arrange N queens on an N×N chessboard so that:
 
 ## How to Run
 
-1. Clone the repository:  
+1. Clone the repository, compile the program, and run it (replace N with desired board size):  
    ```bash
    git clone <your-repo-url>
-2.Compile the Java program:
-    ```bash
-    javac N_queens.java.
-3.Run the program (replace N with desired board size):
-     ```bash
-    java N_queens N
+   cd <repo-folder>      # go into the cloned repo folder
+   javac N_queens.java
+   java N_queens N
+
 
 
 
