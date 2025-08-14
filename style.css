@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  color: #ffcc00; /* Optional: gold headers for contrast */
+}
+
+code {
+  background-color: #222;
+  color: #00ffcc;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
