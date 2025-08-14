@@ -1,7 +1,7 @@
 
 
 ---
-layout: default
+_layouts: default
 title: N Queens Solver
 ---
 
