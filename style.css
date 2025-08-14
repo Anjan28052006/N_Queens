@@ -1,69 +1,18 @@
-/* Reset and base styles */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
-  background-color: #0f0f0f;
-  color: #e0e0e0;
-  font-family: 'Segoe UI', Roboto, sans-serif;
-  line-height: 1.8;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
   padding: 2rem;
-  max-width: 900px;
-  margin: auto;
 }
 
-/* Headings */
 h1, h2, h3 {
-  color: #00ffe0;
-  margin-bottom: 1rem;
-  text-shadow: 0 0 5px #00ffe0;
+  color: #00ffff;
 }
 
-/* Paragraphs and lists */
-p, ul {
-  margin-bottom: 1rem;
-}
-
-/* Code blocks */
-pre, code {
-  background-color: #1a1a1a;
-  color: #00ff99;
-  padding: 0.5rem 1rem;
-  border-radius: 6px;
-  font-family: 'Courier New', monospace;
-  overflow-x: auto;
-}
-
-/* Inline code */
 code {
+  background-color: #1e1e1e;
   padding: 0.2em 0.4em;
-}
-
-/* Links */
-a {
-  color: #00ccff;
-  text-decoration: none;
-  border-bottom: 1px dashed #00ccff;
-}
-
-a:hover {
-  color: #ff66cc;
-  border-bottom: 1px solid #ff66cc;
-}
-
-/* Section spacing */
-section {
-  margin-bottom: 2rem;
-}
-
-/* Custom box for examples */
-.example {
-  background-color: #1c1c1c;
-  border-left: 4px solid #00ffe0;
-  padding: 1rem;
-  margin-bottom: 2rem;
-  box-shadow: 0 0 10px rgba(0, 255, 224, 0.2);
+  border-radius: 4px;
+  font-family: monospace;
 }
