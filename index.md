@@ -7,7 +7,7 @@ title: N Queens Solver
 
 # N-Queens Solver in Java
 
-
+<link rel="stylesheet" href="style.css">
 
 This project implements a solution to the classic **N-Queens** problem using Java. The program places N queens on an N×N chessboard so that no two queens threaten each other.
 
