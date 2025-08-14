@@ -1,20 +1,12 @@
 
+
 ---
 layout: default
-title: My Article
+title: N Queens Solver
 ---
+
 # N-Queens Solver in Java
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/style.css">
-</head>
-<body>
-  {{ content }}
-</body>
-</html>
+
 
 
 This project implements a solution to the classic **N-Queens** problem using Java. The program places N queens on an N×N chessboard so that no two queens threaten each other.
